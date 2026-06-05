@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+Lib/
+Scripts/
+share/
+etc/
+Include/
+pyvenv.cfg
+faiss_index/
+*.pyc
+*.pyd
+*.dll
+.env
