@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+langchain-groq
+pymupdf
+chromadb
+python-dotenv
+sentence-transformers
+faiss-cpu
+pypdf
+unstructured
